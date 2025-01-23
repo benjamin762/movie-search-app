@@ -1,3 +1,16 @@
+# Movie Search App
+
+A movie search app after Christoffer Wallenberg's exercise.
+
+https://gist.github.com/zocom-christoffer-wallenberg/593697e61f6beb33614177498e197f08
+
+Made with vite, react and typescript.
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
